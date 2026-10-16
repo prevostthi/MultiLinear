@@ -1,7 +1,7 @@
 # MultiLinear
 # modelica2imti
 
-Convertit un modèle Modelica **plat** (format `getFlatModel` d'OpenModelica) en **modèle multilinéaire implicite (iMTI)** au format CPN1, puis calcule l'équilibre, la linéarisation et les valeurs propres généralisées.
+Convertit un modèle Modelica **plat** (format `getFlatModel` d'OpenModelica, ce fichier peut être obtenu en faisant "instancier le modèle dans OMEdit) en **modèle multilinéaire implicite (iMTI)** au format CPN1, puis calcule l'équilibre, la linéarisation et les valeurs propres généralisées.
 
 Forme cible (Kaufmann et al., [arXiv:2510.16534](https://arxiv.org/abs/2510.16534)) :
 
